@@ -56,7 +56,7 @@ time point between 1940 - 1972:
 Table 1. Range of number of horses for each province at any time point
 between 1940 and 1972
 
-Below we zoom in and look at the province of Alberta:
+Below we zoom in and look at the province of Ontario:
 
-![Figure 2. Historical number of horses in
-Alberta](hist_horse_pop_files/figure-gfm/plot%20province-1.png)
+![Figure 2. Historical number of horses in selected
+province](hist_horse_pop_files/figure-gfm/plot%20province-1.png)
